@@ -1,0 +1,56 @@
+<resources>
+    <string name="app_name">WatchVideos</string>
+    <string name="action_settings">Settings</string>
+    <string-array name="videoURLs">
+        <item>https://www.youtube.com/watch?v=OPf0YbXqDm0</item>
+        <item>https://www.youtube.com/watch?v=CevxZvSJLk8&amp;list=PLMC9KNkIncKtPzgY-5rmhvj7fax8fdxoj</item>
+        <item>https://www.youtube.com/watch?v=450p7goxZqg</item>
+        <item>https://www.youtube.com/watch?v=NywWB67Z7zQ&amp;index=6&amp;list=PLMC9KNkIncKtPzgY-5rmhvj7fax8fdxoj</item>
+        <item>https://www.youtube.com/watch?v=6XbIuSLaCnk&amp;index=2&amp;list=PL8LJJ1Zu1yOFryY_XvKWicVAsBS74Ba5V</item>
+        <item>https://www.youtube.com/watch?v=DUT5rEU6pqM&amp;list=RDDUT5rEU6pqM</item>
+        <item>https://www.youtube.com/watch?v=fRh_vgS2dFE&amp;list=PLDcnymzs18LVXfO_x0Ei0R24qDbVtyy66</item>
+        <item>https://www.youtube.com/watch?v=SR6iYWJxHqs&amp;index=73&amp;list=PLMC9KNkIncKtPzgY-5rmhvj7fax8fdxoj</item>
+        <item>https://www.youtube.com/watch?v=YqeW9_5kURI</item>
+        <item>https://www.youtube.com/watch?v=BW91OY3wVoo</item>
+        <item>https://www.youtube.com/watch?v=-CmadmM5cOk</item>
+        <item>https://www.youtube.com/watch?v=Xy-rOspQF48</item>
+        <item>https://www.youtube.com/watch?v=TGx0rApSk6w</item>
+        <item>https://www.youtube.com/watch?v=8SbUC-UaAxE</item>
+        <item>https://www.youtube.com/watch?v=1y6smkh6c-0</item>
+    </string-array>
+    <string-array name="songInfoURLs">
+        <item>https://en.wikipedia.org/wiki/Uptown_Funk</item>
+        <item>https://en.wikipedia.org/wiki/Roar_(song)</item>
+        <item>https://en.wikipedia.org/wiki/All_of_Me_(John_Legend_song)</item>
+        <item>https://en.wikipedia.org/wiki/What_Do_You_Mean%3F</item>
+        <item>https://en.wikipedia.org/wiki/Papi_(song)</item>
+        <item>https://en.wikipedia.org/wiki/Hips_Don%27t_Lie</item>
+        <item>https://en.wikipedia.org/wiki/Sorry_(Justin_Bieber_song)</item>
+        <item>https://en.wikipedia.org/wiki/Comfortably_Numb</item>
+        <item>https://en.wikipedia.org/wiki/Lean_On</item>
+        <item>https://en.wikipedia.org/wiki/Ain%27t_Nobody</item>
+        <item>https://en.wikipedia.org/wiki/Style_(Taylor_Swift_song)</item>
+        <item>https://en.wikipedia.org/wiki/Dance_of_Death_(album)</item>
+        <item>https://en.wikipedia.org/wiki/Lose_Myself</item>
+        <item>https://en.wikipedia.org/wiki/November_Rain</item>
+        <item>https://en.wikipedia.org/wiki/Don%27t_You_Worry_Child</item>
+    </string-array>
+    <string-array name="artistInfoURLs">
+        <item>https://en.wikipedia.org/wiki/Bruno_Mars</item>
+        <item>https://en.wikipedia.org/wiki/Katy_Perry</item>
+        <item>https://en.wikipedia.org/wiki/John_Legend</item>
+        <item>https://en.wikipedia.org/wiki/Justin_Bieber</item>
+        <item>https://en.wikipedia.org/wiki/Jennifer_Lopez</item>
+        <item>https://en.wikipedia.org/wiki/Shakira</item>
+        <item>https://en.wikipedia.org/wiki/Justin_Bieber</item>
+        <item>https://en.wikipedia.org/wiki/Pink_Floyd</item>
+        <item>https://en.wikipedia.org/wiki/Major_Lazer</item>
+        <item>https://en.wikipedia.org/wiki/Felix_Jaehn</item>
+        <item>https://en.wikipedia.org/wiki/Taylor_Swift</item>
+        <item>https://en.wikipedia.org/wiki/Heavy_metal_music</item>
+        <item>https://en.wikipedia.org/wiki/OneRepublic</item>
+        <item>https://en.wikipedia.org/wiki/Guns_N%27_Roses</item>
+        <item>https://en.wikipedia.org/wiki/Swedish_House_Mafia</item>
+
+    </string-array>
+</resources>
